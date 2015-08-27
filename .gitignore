@@ -1,0 +1,9 @@
+*.pyc
+files/static
+files/media
+myapps/settings_local.py
+myapps/wsgi.py
+.idea
+db.sqlite3
+*.sql
+*/migrations
