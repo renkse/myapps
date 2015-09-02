@@ -30,7 +30,11 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'main'
+    'django.contrib.flatpages',
+    'django.contrib.sites',
+    'feincms',
+    'main',
+    'menu'
 )
 
 MIDDLEWARE_CLASSES = (
